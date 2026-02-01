@@ -1,15 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "\bRunning\b (\bPID\b: \b91429\b
-\b91441\b)",
-  "logSnippet": "   \bNo\b \bactive\b \b15m\b \bmarkets\b \bfound\b \bvia\b \bSlug\b \bPrediction\b.
-
-⏰ [\b2026\b-\b02\b-\b01T12\b:\b44\b:\b04\b.\b803Z\b] \bScan\b \bCycle\b... (\bTrades\b: \b0\b/\b10\b)
-   \bDEBUG\b: \bNow\b: \b1769949844\b. \bTargetEnd\b: \b1769950200\b (\bActive\b \bWindow\b)
-   \bDEBUG\b: \bChecking\b \bSlugs\b: [
-  '\bbtc\b-\bupdown\b-\b15m\b-\b1769950200\b',
-  '\bbtc\b-\bupdown\b-\b15m\b-\b1769951100\b',
-  '\bbtc\b-\bupdown\b-\b15m\b-\b1769952000\b'
-]
-   \bNo\b \bactive\b \b15m\b \bmarkets\b \bfound\b \bvia\b \bSlug\b \bPrediction\b."
+  "lastActivity": "Running (PID: 91429, 91441, 93089, 93096)",
+  "logSnippet": "   No active 15m markets found via Slug Prediction.\n\n⏰ [2026-02-01T12:57:35.372Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Now: 1769950655. TargetEnd: 1769951100 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769951100',\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900'\n]\n   No active 15m markets found via Slug Prediction."
 }
