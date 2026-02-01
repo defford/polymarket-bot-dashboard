@@ -1,5 +1,15 @@
 {
-    "status": "OFFLINE",
-    "lastActivity": "No recent activity found. Log file does not exist.",
-    "logSnippet": "Log file not found."
+  "status": "ONLINE",
+  "lastActivity": "Ruig (PID: 91429
+91441)",
+  "logSnippet": "🤖 POLYBOT LOOP STARTED
+
+⏰ [2026-02-01T12:36:33.837Z] Sca Cycle... (Trades: 0/10)
+   DEBUG: Now: 1769949393. TargetEd: 1769950200 (Active Widow)
+   DEBUG: Checkig Slugs: [
+  'btc-updow-15m-1769950200',
+  'btc-updow-15m-1769951100',
+  'btc-updow-15m-1769952000'
+]
+   No active 15m markets foud via Slug Predictio."
 }
