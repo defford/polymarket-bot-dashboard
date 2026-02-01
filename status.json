@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 100187, 100194)",
-  "logSnippet": "   Target: Bitcoin Up or Down - February 1, 9:30AM-9:45AM ET (Ends in 19.3m)\n   Prices: Current $77966.35, Strike $78135.62 | Diff: -169.26 -> Prediction: DOWN\n   Entry price ($0.990000) too high. Skipping.\n\n⏰ [2026-02-01T14:26:10.971Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Current Time: 1769955970. Generated Slugs for markets ending at: 1769956200, 1769957100, 1769958000\n   ✅ LOCKED: btc-updown-15m-1769956200 (Ends: 2026-02-01T14:45:00.000Z)\n   Target: Bitcoin Up or Down - February 1, 9:30AM-9:45AM ET (Ends in 18.8m)\n   Prices: Current $78055.99, Strike $78135.62 | Diff: -79.63 -> Prediction: DOWN\n   Entry price ($0.990000) too high. Skipping."
+  "lastActivity": "Running (PID: 100221, 100222, 100223, 101235, 101242)",
+  "logSnippet": "   Target: Bitcoin Up or Down - February 1, 9:45AM-10:00AM ET (Ends in 12.4m)\n   Prices: Current $77882.98, Strike $77839.30 | Diff: 43.68 -> Prediction: UP\n   Entry price ($0.990000) too high. Skipping.\n\n⏰ [2026-02-01T14:48:03.236Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Current Time: 1769957283. Generated Slugs for markets ending at: 1769957100, 1769958000, 1769958900\n   ✅ LOCKED: btc-updown-15m-1769957100 (Ends: 2026-02-01T15:00:00.000Z)\n   Target: Bitcoin Up or Down - February 1, 9:45AM-10:00AM ET (Ends in 11.9m)\n   Prices: Current $77856.01, Strike $77839.30 | Diff: 16.71 -> Prediction: UP\n   Entry price ($0.990000) too high. Skipping."
 }
