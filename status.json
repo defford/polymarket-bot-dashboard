@@ -1,15 +1,15 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Ruig (PID: 91429
-91441)",
-  "logSnippet": "🤖 POLYBOT LOOP STARTED
+  "lastActivity": "\bRunning\b (\bPID\b: \b91429\b
+\b91441\b)",
+  "logSnippet": "   \bNo\b \bactive\b \b15m\b \bmarkets\b \bfound\b \bvia\b \bSlug\b \bPrediction\b.
 
-⏰ [2026-02-01T12:36:33.837Z] Sca Cycle... (Trades: 0/10)
-   DEBUG: Now: 1769949393. TargetEd: 1769950200 (Active Widow)
-   DEBUG: Checkig Slugs: [
-  'btc-updow-15m-1769950200',
-  'btc-updow-15m-1769951100',
-  'btc-updow-15m-1769952000'
+⏰ [\b2026\b-\b02\b-\b01T12\b:\b43\b:\b04\b.\b751Z\b] \bScan\b \bCycle\b... (\bTrades\b: \b0\b/\b10\b)
+   \bDEBUG\b: \bNow\b: \b1769949784\b. \bTargetEnd\b: \b1769950200\b (\bActive\b \bWindow\b)
+   \bDEBUG\b: \bChecking\b \bSlugs\b: [
+  '\bbtc\b-\bupdown\b-\b15m\b-\b1769950200\b',
+  '\bbtc\b-\bupdown\b-\b15m\b-\b1769951100\b',
+  '\bbtc\b-\bupdown\b-\b15m\b-\b1769952000\b'
 ]
-   No active 15m markets foud via Slug Predictio."
+   \bNo\b \bactive\b \b15m\b \bmarkets\b \bfound\b \bvia\b \bSlug\b \bPrediction\b."
 }
