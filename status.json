@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 96497, 96504)",
-  "logSnippet": "   DEBUG: Now: 1769951165. TargetEnd: 1769952000 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900',\n  'btc-updown-15m-1769953800'\n]\n   No active 15m markets found via Slug Prediction.\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  suppress all logs with { quiet: true }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function"
+  "lastActivity": "Running (PID: 97069, 97076)",
+  "logSnippet": "    at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:767:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:790:52)\n    at #cachedResolveSync (node:internal/modules/esm/loader:750:25)\n    at ModuleLoader.getModuleJobForRequire (node:internal/modules/esm/loader:459:50)\n    at new ModuleJobSync (node:internal/modules/esm/module_job:392:34) {\n  code: 'ERR_MODULE_NOT_FOUND'\n}\n\nNode.js v22.22.0"
 }
