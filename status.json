@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 97151, 97158)",
-  "logSnippet": "    at #cachedResolveSync (node:internal/modules/esm/loader:750:25)\n    at ModuleLoader.getModuleJobForRequire (node:internal/modules/esm/loader:459:50)\n    at new ModuleJobSync (node:internal/modules/esm/module_job:392:34) {\n  code: 'ERR_MODULE_NOT_FOUND'\n}\n\nNode.js v22.22.0\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function"
+  "lastActivity": "Running (PID: 97280, 97287)",
+  "logSnippet": "  code: 'ERR_MODULE_NOT_FOUND'\n}\n\nNode.js v22.22.0\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  enable debug logging with { debug: true }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function"
 }
