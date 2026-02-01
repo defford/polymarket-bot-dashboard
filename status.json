@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 97280, 97287)",
-  "logSnippet": "  code: 'ERR_MODULE_NOT_FOUND'\n}\n\nNode.js v22.22.0\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  enable debug logging with { debug: true }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function"
+  "lastActivity": "Running (PID: 100187, 100194)",
+  "logSnippet": "   Target: Bitcoin Up or Down - February 1, 9:30AM-9:45AM ET (Ends in 19.3m)\n   Prices: Current $77966.35, Strike $78135.62 | Diff: -169.26 -> Prediction: DOWN\n   Entry price ($0.990000) too high. Skipping.\n\n⏰ [2026-02-01T14:26:10.971Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Current Time: 1769955970. Generated Slugs for markets ending at: 1769956200, 1769957100, 1769958000\n   ✅ LOCKED: btc-updown-15m-1769956200 (Ends: 2026-02-01T14:45:00.000Z)\n   Target: Bitcoin Up or Down - February 1, 9:30AM-9:45AM ET (Ends in 18.8m)\n   Prices: Current $78055.99, Strike $78135.62 | Diff: -79.63 -> Prediction: DOWN\n   Entry price ($0.990000) too high. Skipping."
 }
