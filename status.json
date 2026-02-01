@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 96433, 96440)",
-  "logSnippet": "   No active 15m markets found via Slug Prediction.\n\n⏰ [2026-02-01T13:06:05.700Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Now: 1769951165. TargetEnd: 1769952000 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900',\n  'btc-updown-15m-1769953800'\n]\n   No active 15m markets found via Slug Prediction."
+  "lastActivity": "Running (PID: 96497, 96504)",
+  "logSnippet": "   DEBUG: Now: 1769951165. TargetEnd: 1769952000 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900',\n  'btc-updown-15m-1769953800'\n]\n   No active 15m markets found via Slug Prediction.\n[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  suppress all logs with { quiet: true }\n🤖 POLYBOT LOOP STARTED\n   ❌ Failed to initialize CLOB client or run initial loop: clobClient.ping is not a function"
 }
