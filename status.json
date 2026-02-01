@@ -1,5 +1,5 @@
 {
   "status": "ONLINE",
-  "lastActivity": "Running (PID: 91429, 91441, 93147, 93155)",
-  "logSnippet": "   No active 15m markets found via Slug Prediction.\n\n⏰ [2026-02-01T12:58:05.388Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Now: 1769950685. TargetEnd: 1769951100 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769951100',\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900'\n]\n   No active 15m markets found via Slug Prediction."
+  "lastActivity": "Running (PID: 96433, 96440)",
+  "logSnippet": "   No active 15m markets found via Slug Prediction.\n\n⏰ [2026-02-01T13:06:05.700Z] Scan Cycle... (Trades: 0/10)\n   DEBUG: Now: 1769951165. TargetEnd: 1769952000 (Active Window)\n   DEBUG: Checking Slugs: [\n  'btc-updown-15m-1769952000',\n  'btc-updown-15m-1769952900',\n  'btc-updown-15m-1769953800'\n]\n   No active 15m markets found via Slug Prediction."
 }
