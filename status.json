@@ -4,8 +4,8 @@
 \b91441\b)",
   "logSnippet": "   \bNo\b \bactive\b \b15m\b \bmarkets\b \bfound\b \bvia\b \bSlug\b \bPrediction\b.
 
-⏰ [\b2026\b-\b02\b-\b01T12\b:\b43\b:\b04\b.\b751Z\b] \bScan\b \bCycle\b... (\bTrades\b: \b0\b/\b10\b)
-   \bDEBUG\b: \bNow\b: \b1769949784\b. \bTargetEnd\b: \b1769950200\b (\bActive\b \bWindow\b)
+⏰ [\b2026\b-\b02\b-\b01T12\b:\b44\b:\b04\b.\b803Z\b] \bScan\b \bCycle\b... (\bTrades\b: \b0\b/\b10\b)
+   \bDEBUG\b: \bNow\b: \b1769949844\b. \bTargetEnd\b: \b1769950200\b (\bActive\b \bWindow\b)
    \bDEBUG\b: \bChecking\b \bSlugs\b: [
   '\bbtc\b-\bupdown\b-\b15m\b-\b1769950200\b',
   '\bbtc\b-\bupdown\b-\b15m\b-\b1769951100\b',
